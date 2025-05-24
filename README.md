@@ -17,7 +17,7 @@ Gained foundational knowledge in statistics, linear algebra, and probability. Fo
 ✍️ 3. Art of Prompt Writing
 Institution: [LinkedIn Learning]
 Year: [2024]
-Certificate: View Certificate
+Certificate: ://github.com/parth-18-9/Certificates-/commit/aabecba900de0b62516142de466fd8da08e7f4c4
 Description:
 Developed skills in prompt engineering to effectively interact with AI models and improve response accuracy for various use cases.
 
