@@ -1,9 +1,9 @@
 # Certificates-
 Certificates of learning
 🏗️ 1. AutoCAD Certificate
-Institution: [Enter Institution Name]
-Year: [e.g., 2020]
-Certificate: View Certificate
+Institution: [CADD CENTER ]
+Year: [2019]
+Certificate:
 Description:
 Learned 2D/3D design, drafting, and architectural drawing techniques using AutoCAD. Applied knowledge in civil engineering coursework and projects.
 
